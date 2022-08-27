@@ -8,6 +8,7 @@
 <img width="828" alt="Screenshot 2022-08-28 at 1 13 57 AM" src="https://user-images.githubusercontent.com/86067292/187045726-b8ab7f66-5e0f-4186-bd15-4175b850b567.png">
 </p>
 
+<img width="421" alt="Screenshot 2022-08-28 at 2 02 56 AM" src="https://user-images.githubusercontent.com/86067292/187047045-187f36f3-e80f-42fa-9ca3-eca7e6742db2.png">
 
 
 
@@ -17,8 +18,8 @@ This repository contains the assets required to build the FINADEL METAVERSE  .
 
 # An overview of the Metaverse
 
-<h3 align="center">Intro Page </h3>
-<img width="1440" alt="Intro Page" src="https://user-images.githubusercontent.com/86067292/187045982-d0ede631-0bf6-44c2-bda0-c6ef4ca64353.png">
+<h3 align="center">  Meta Store </h3>
+
 
 
 
