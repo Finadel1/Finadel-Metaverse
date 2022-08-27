@@ -19,7 +19,7 @@ This repository contains the assets required to build the FINADEL METAVERSE  .
 
 <h3 align="center">  Meta Store </h3>
 
-<h3 align="center"> <img width="828" alt="Screenshot 2022-08-28 at 2 02 56 AM" src="https://user-images.githubusercontent.com/86067292/187047045-187f36f3-e80f-42fa-9ca3-eca7e6742db2.png">
+<h3 align="center"> <img width="1408" alt="Screenshot 2022-08-28 at 2 02 56 AM" src="https://user-images.githubusercontent.com/86067292/187047045-187f36f3-e80f-42fa-9ca3-eca7e6742db2.png">
  </h3>
 
 
