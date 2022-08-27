@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Finadel-Metaverse</h1>
 
 
